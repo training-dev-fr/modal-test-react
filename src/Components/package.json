@@ -1,0 +1,17 @@
+{
+    "name": "modal-test-training-dev",
+    "version": "0.1.1",
+    "description": "",
+    "main": "Modal.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-scripts": "5.0.1"
+    }
+}
